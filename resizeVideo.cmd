@@ -1,0 +1,1 @@
+ffmpeg -i %1 -vf scale=%2:%3 %1_%2x%3_resized.mp4

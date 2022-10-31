@@ -1,0 +1,1 @@
+ffmpeg -i %1 -ss 00:00:00 -t 00:00:%2 -c:v copy -c:a copy %1_%2_seconds.mp4
