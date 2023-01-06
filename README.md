@@ -1,5 +1,4 @@
 # Ffmpeg Commands as cmd files and Python files
-The solutions for the Seminar 2 exercises.
 
 All .cmd files can be run in the command line to compete the tasks. The explicit use is explained below. 
 Alternatively, the file python_integration.py can be used to execute the functions.
